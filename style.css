@@ -1,0 +1,86 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    }
+    img {
+    max-width: 100%;
+    }
+.container-header{
+    background-color: salmon;
+    min-height: 60px;
+}
+.row-header{
+    display: flex;
+    color: white;
+    align-items: center;
+    padding: 30px;
+}
+.logo-boo{
+    width: 150px;
+    margin-right: 100px;
+}
+.nav-sinistra{
+    word-spacing: 8px;
+}
+.li-header{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: blue;
+}
+
+/******************
+*****CSS MAIN****
+*******************/
+
+.row-cards{
+    display: flex;
+    padding: 50px 290px;
+}
+
+.container-cards{
+    height: 900px;
+    background-color: lightcyan;
+}
+.col-cards1{
+    background-image: url(img/1.webp);
+    background-size: cover;
+    width: 300px;
+    height: 450px;
+}
+.col-cards2{
+    background-image: url(img/1.webp);
+    background-size: cover;
+    width: 300px;
+    height: 450px;
+}
+.col-cards3{
+    background-image: url(img/1.webp);
+    background-size: cover;
+    width: 300px;
+    height: 450px;
+}
+.col-cards4{
+    background-image: url(img/1.webp);
+    background-size: cover;
+    width: 300px;
+    height: 450px;
+}
+.col-cards5{
+    background-image: url(img/1.webp);
+    background-size: cover;
+    width: 300px;
+    height: 450px;
+}
+.col-cards6{
+    background-image: url(img/1.webp);
+    background-size: cover;
+    width: 300px;
+    height: 450px;
+}
