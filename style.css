@@ -84,3 +84,41 @@ a:hover{
     width: 300px;
     height: 450px;
 }
+.col-cards1{
+    position: relative;
+}
+.absolute1{
+    bottom: -17px;
+    position: absolute;
+    font-size: 13px;
+}
+.absolute2{
+    position: absolute;
+    bottom: -31px;
+    font-size: 15px;
+}
+.absolute3{
+    position: absolute;
+    bottom: -45px;
+    font-size: 13px;
+    color: red;
+}
+.col-cards2{
+    position: relative;
+}
+.abs1{
+position: absolute;
+bottom: -17px;
+font-size: 13px;
+}
+.abs2{
+    position: absolute;
+    bottom: -31px;
+    font-size: 15px;
+}
+.abs3{
+    position: absolute;
+bottom: -45px;
+font-size: 13px;
+    color: red;
+}
