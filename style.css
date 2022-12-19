@@ -10,12 +10,15 @@
 .container-header{
     background-color: salmon;
     min-height: 60px;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
 }
 .row-header{
     display: flex;
     color: white;
     align-items: center;
-    padding: 30px;
+    padding: 20px;
 }
 .logo-boo{
     width: 150px;
@@ -41,7 +44,7 @@ a:hover{
 
 .row-cards{
     display: flex;
-    padding: 50px 290px;
+    padding: 100px 290px;
 }
 
 .container-cards{
